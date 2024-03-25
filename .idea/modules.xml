@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/access/access.iml" filepath="$PROJECT_DIR$/access/access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jrebel-mybatisplus-idea-plugin--jar-has-xml.iml" filepath="$PROJECT_DIR$/jrebel-mybatisplus-idea-plugin--jar-has-xml.iml" />
+    </modules>
+  </component>
+</project>

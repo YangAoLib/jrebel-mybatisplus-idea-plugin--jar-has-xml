@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="JRebel" name="JRebel">
+      <configuration>
+        <option name="ideModuleStorage">
+          <map>
+            <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+            <entry key="jrebelEnabled" value="false" />
+            <entry key="rebelXmlGenerationInvariantToken" value="PGFwcGxpY2F0aW9uIGdlbmVyYXRlZC1ieT0iaW50ZWxsaWoiPjxpZD5qYXItaGFzLXhtbDwvaWQ+PGNsYXNzcGF0aD48ZGlyIG5hbWU9IkQ6L3Byb2plY3Qvb3Blbi1zb3VyY2UvamF2YS9qcmViZWwtbXliYXRpc3BsdXMtaWRlYS1wbHVnaW4tLWphci1oYXMteG1sL2pyZWJlbC1teWJhdGlzcGx1cy1pZGVhLXBsdWdpbi0tamFyLWhhcy14bWwvamFyLWhhcy14bWwvdGFyZ2V0L2NsYXNzZXMiPjwvZGlyPjwvY2xhc3NwYXRoPjwvYXBwbGljYXRpb24+" />
+          </map>
+        </option>
+        <option name="version" value="6" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="0eee4138-92a4-48ea-9670-cb1b4549305e" />
+  </component>
+</module>
